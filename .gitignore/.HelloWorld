@@ -1,0 +1,10 @@
+//A very basic C program
+//It prints the String "Hello World !"
+
+#include<stdio.h>
+
+int main()
+{
+	printf("Hello World !");
+	return 0;
+}
